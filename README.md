@@ -39,7 +39,7 @@ Each section has been broken down to include areas for notes and additional info
 
 ## Credits
 
-N/A
+code provided by 2024 edX Boot Camps LLC
 
 ## License
 
