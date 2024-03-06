@@ -2,21 +2,19 @@
 
 ## Description
 
-This is a short description of this project and why it was created
+Weekly challenge
 
-This project was created as the initial stepping stone into coding cootcamp
-it exists to assist the student in organizing and optimizing notes, tips, and various functions to be covered later
+This project was created for the purpose of providing the student a controlled enviroment to practice the lessons covered throughout week one, with the main focus being cleaning up code.
 
-## Table of Contents (Optional)
+## Focus of Content (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- [HTML]
+- [CSS](#usage)
+- [GitHub]
+- [Command Line Interface]
 
-## Installation
+## HTML code was given to the student with code that was not optimized or working properly
 
 N/A
 
