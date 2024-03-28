@@ -35,7 +35,7 @@ This project was created for the purpose of providing the student a controlled e
 
 Each section has been broken down to include areas for notes and additional information on HTML and CSS 
 
-
+https://github.com/U6028449/first_challenge/blob/main/assets/images/brand-awareness.png
 
 ## Credits
 
